@@ -20,19 +20,19 @@
 <tr>
 <td valign="top" width="60%">
 
-🔭 **Currently Building:** AI & ML projects in Data Science & Computer Vision
-🎯 **Mission:** Creating **intelligent, interactive & impactful** AI solutions
-🌱 **Learning:** Deep Learning, NLP, GenAI & IoT solutions
-🧠 **Interests:** Computer Vision, Neural Networks, RAG & Image Processing
-🚀 **Why I Code:** Data solves real problems – I build models that make life smarter!
-✨ **Fun Fact:** Built a complete RAG chatbot with PDF processing in 48 hours! ⏰
-📫 **Contact:** hariprasathg2435@gmail.com
-📍 **Location:** Coimbatore, India
+- 🔭 **Currently Building:** AI & ML projects in Data Science & Computer Vision
+- 🎯 **Mission:** Creating **intelligent, interactive & impactful** AI solutions
+- 🌱 **Learning:** Deep Learning, NLP, GenAI & IoT solutions
+- 🧠 **Interests:** Computer Vision, Neural Networks, RAG & Image Processing
+- 🚀 **Why I Code:** Data solves real problems – I build models that make life smarter!
+- ✨ **Fun Fact:** Built a complete RAG chatbot with PDF processing in 48 hours! ⏰
+- 📫 **Contact:** hariprasathg2435@gmail.com
+- 📍 **Location:** Coimbatore, India
 
 </td>
 <td valign="top" width="40%">
 
-![coding gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+![coding gif](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 </td>
 </tr>
