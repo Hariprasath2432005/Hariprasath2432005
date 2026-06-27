@@ -14,17 +14,29 @@
 
 ## 🌟 About Me
 
-| 👨‍💻 Who Am I? | 🖥️ |
-|---|---|
-| 🔭 **Currently Building:** AI & ML projects in Data Science & Computer Vision | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 🎯 **Mission:** Creating **intelligent, interactive & impactful** AI solutions | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 🌱 **Learning:** Deep Learning, NLP, GenAI & IoT solutions | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 🧠 **Interests:** Computer Vision, Neural Networks, RAG & Image Processing | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 🚀 **Why I Code:** Data solves real problems – I build models that make life smarter! | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| ✨ **Fun Fact:** Built a complete RAG chatbot with PDF processing in 48 hours! ⏰ | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 📫 **Contact:** hariprasathg2435@gmail.com | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 📍 **Location:** Coimbatore, India | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
+## 🌟 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
+🔭 **Currently Building:** AI & ML projects in Data Science & Computer Vision
+🎯 **Mission:** Creating **intelligent, interactive & impactful** AI solutions
+🌱 **Learning:** Deep Learning, NLP, GenAI & IoT solutions
+🧠 **Interests:** Computer Vision, Neural Networks, RAG & Image Processing
+🚀 **Why I Code:** Data solves real problems – I build models that make life smarter!
+✨ **Fun Fact:** Built a complete RAG chatbot with PDF processing in 48 hours! ⏰
+📫 **Contact:** hariprasathg2435@gmail.com
+📍 **Location:** Coimbatore, India
+
+</td>
+<td valign="top" width="40%">
+
+![coding gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+
+</td>
+</tr>
+</table>
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
