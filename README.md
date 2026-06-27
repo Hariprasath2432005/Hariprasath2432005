@@ -1,44 +1,89 @@
-<h1 align="center">👋 Hi, I'm Hariprasath!</h1>
+<h1 align="center">✨ Hi there, I'm Hariprasath! ✨</h1>
 
 <p align="center">
-  🤖 Data Science & AI Enthusiast | 📊 ML Engineer in the Making
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Data+Science+Enthusiast;📊+ML+Engineer+in+the+Making;🧠+Computer+Vision+Explorer;💡+Building+AI+that+makes+a+difference!" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hariprasath2432005&style=for-the-badge&color=ff69b4" />
+</p>
+
+⚡ **"Turning data into insights, building models that spark impact!"** ⚡
+
+---
+
+## 🌟 About Me
+
+| 👨‍💻 Who Am I? | |
+|---|---|
+| 🔭 **Currently Building:** AI & ML projects in Data Science | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
+| 🎯 **Mission:** Creating intelligent, impactful AI solutions | |
+| 🌱 **Learning:** Deep Learning, NLP, IoT, TypeScript | |
+| 🧠 **Interests:** Computer Vision, Neural Networks, Image Processing | |
+| 📫 **Contact:** hariprasathg2435@gmail.com | |
+| 📍 **Location:** Coimbatore, India | |
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,typescript,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🏆 GitHub Trophies
 
-- 🔭 Currently: Working on Data Science & Computer Vision projects
-- 🌱 Learning: Deep Learning, NLP, TypeScript
-- 💡 Interests: AI, Image Processing, Neural Networks
-- 📫 Contact me: hariprasathg2435@gmail.com
-
----
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hariprasath2432005&theme=radical&no-frame=false&no-bg=false&margin-w=15&column=4" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Hariprasath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariprasath2432005&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath2432005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasath2432005&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath2432005&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath2432005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
+</p>
 
 ---
 
-## 📌 My Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---------|-------------|------------|
-| [datascienceproj](https://github.com/Hariprasath2432005/datascienceproj) | Data Science project | Jupyter Notebook |
-| [predict-insurance-flow](https://github.com/Hariprasath2432005/predict-insurance-flow) | Insurance prediction model | TypeScript |
-| [Imageprocess](https://github.com/Hariprasath2432005/Imageprocess) | Computer Vision project | Jupyter Notebook |
-| [ANN](https://github.com/Hariprasath2432005/ANN) | Neural Network project | Jupyter Notebook |
-| [NLP](https://github.com/Hariprasath2432005/NLP) | Natural Language Processing | Jupyter Notebook |
-| [COMPUTER-VISION](https://github.com/Hariprasath2432005/COMPUTER-VISION) | CV project | Jupyter Notebook |
+| 🤖 Project | 📝 Description | ⚙️ Tech Stack |
+|---|---|---|
+| **📊 Data Science Project** | Exploratory data analysis and visualization | Python • Jupyter • Pandas |
+| **🔮 Predict Insurance Flow** | ML model to predict insurance outcomes | TypeScript • ML |
+| **👁️ Image Processing** | Computer Vision & image analysis | Python • OpenCV • Jupyter |
+| **🧠 ANN Project** | Artificial Neural Network implementation | Python • TensorFlow • Jupyter |
+| **💬 NLP Project** | Natural Language Processing models | Python • NLP • Jupyter |
+| **🖥️ Computer Vision** | Advanced CV algorithms & models | Python • OpenCV • Deep Learning |
+
+---
+
+## 💬 Developer Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="mailto:hariprasathg2435@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hariprasath2432005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=400&lines=🌟+Thanks+for+visiting!+🌟;⭐+Star+my+repos+if+you+like+them!;🚀+Let's+build+something+awesome!;💻+Happy+Coding!" />
+</p>
