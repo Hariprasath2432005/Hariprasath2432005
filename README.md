@@ -1,14 +1,14 @@
 <h1 align="center">✨ Hi there, I'm Hari prasath! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Data+Science+Enthusiast;📊+ML+Engineer+in+the+Making;🧠+Computer+Vision+Explorer;💡+Building+AI+that+makes+a+difference!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Data+Science+Enthusiast;📊+ML+Engineer+in+the+Making;🧠+Computer+Vision+Explorer;👁️+Image+Processing+Expert;💬+NLP+%26+GenAI+Builder!" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hariprasath2432005&style=for-the-badge&color=ff69b4" />
 </p>
 
-⚡ **"Turning data into insights, building models that spark impact!"** ⚡
+⚡ **"Turning data into insights, building AI that makes a difference!"** ⚡
 
 ---
 
@@ -16,10 +16,10 @@
 
 | 👨‍💻 Who Am I? | |
 |---|---|
-| 🔭 **Currently Building:** AI & ML projects in Data Science | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
+| 🔭 **Currently Building:** AI & ML projects | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
 | 🎯 **Mission:** Creating intelligent, impactful AI solutions | |
-| 🌱 **Learning:** Deep Learning, NLP, IoT, TypeScript | |
-| 🧠 **Interests:** Computer Vision, Neural Networks, Image Processing | |
+| 🌱 **Learning:** Deep Learning, NLP, GenAI, IoT | |
+| 🧠 **Interests:** Computer Vision, Neural Networks, RAG | |
 | 📫 **Contact:** hariprasathg2435@gmail.com | |
 | 📍 **Location:** Coimbatore, India | |
 
@@ -28,7 +28,7 @@
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,typescript,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,typescript,react,git,github,vscode" />
 </p>
 
 ---
@@ -58,12 +58,14 @@
 
 | 🤖 Project | 📝 Description | ⚙️ Tech Stack |
 |---|---|---|
-| **📊 Data Science Project** | Exploratory data analysis and visualization | Python • Jupyter • Pandas |
-| **🔮 Predict Insurance Flow** | ML model to predict insurance outcomes | TypeScript • ML |
-| **👁️ Image Processing** | Computer Vision & image analysis | Python • OpenCV • Jupyter |
-| **🧠 ANN Project** | Artificial Neural Network implementation | Python • TensorFlow • Jupyter |
-| **💬 NLP Project** | Natural Language Processing models | Python • NLP • Jupyter |
-| **🖥️ Computer Vision** | Advanced CV algorithms & models | Python • OpenCV • Deep Learning |
+| **🤖 GEN_AI** | AI-powered RAG Chatbot with PDF processing & Vector embeddings | Python • LangChain • RAG • GenAI |
+| **📊 datascienceproj** | Exploratory data analysis and visualization | Python • Pandas • Matplotlib • Jupyter |
+| **🔮 predict-insurance-flow** | ML model to predict insurance cost and flow | TypeScript • Machine Learning |
+| **👁️ Imageprocess** | Multi-class image classification using Computer Vision | Python • OpenCV • Deep Learning |
+| **🧠 ANN** | Artificial Neural Network for classification tasks | Python • TensorFlow • Jupyter |
+| **💬 NLP** | Natural Language Processing models and text analysis | Python • NLP • Jupyter |
+| **🖥️ COMPUTER-VISION** | Advanced CV algorithms and deep learning models | Python • OpenCV • CNN |
+| **🚗 car-predict-dashboard** | Car price prediction dashboard with ML integration | React • Vite • TypeScript |
 
 ---
 
@@ -78,8 +80,12 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:hariprasathg2435@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Hariprasath2432005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:hariprasathg2435@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hariprasath2432005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
