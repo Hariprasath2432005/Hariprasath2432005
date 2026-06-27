@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Hariprasath! ✨</h1>
+<h1 align="center">✨ Hi there, I'm Hari prasath! ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Data+Science+Enthusiast;📊+ML+Engineer+in+the+Making;🧠+Computer+Vision+Explorer;💡+Building+AI+that+makes+a+difference!" />
