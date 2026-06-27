@@ -11,7 +11,7 @@
 - 🔭 Currently: Working on Data Science & Computer Vision projects
 - 🌱 Learning: Deep Learning, NLP, TypeScript
 - 💡 Interests: AI, Image Processing, Neural Networks
-- 📫 Contact me: your@email.com
+- 📫 Contact me: hariprasathg2435@gmail.com
 
 ---
 
