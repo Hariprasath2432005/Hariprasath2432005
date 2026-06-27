@@ -89,8 +89,6 @@
 | **🖥️ COMPUTER-VISION** | Advanced CV algorithms and deep learning models | Python • OpenCV • CNN |
 | **🚗 car-predict-dashboard** | Car price prediction dashboard with ML integration | React • Vite • TypeScript |
 
----
-
 ## 💬 Developer Quote of the Day
 
 <p align="center">
