@@ -32,7 +32,7 @@
 </td>
 <td valign="top" width="40%">
 
-![coding gif](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+![coding gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 </td>
 </tr>
