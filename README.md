@@ -16,10 +16,12 @@
 
 | 👨‍💻 Who Am I? | |
 |---|---|
-| 🔭 **Currently Building:** AI & ML projects | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
-| 🎯 **Mission:** Creating intelligent, impactful AI solutions | |
-| 🌱 **Learning:** Deep Learning, NLP, GenAI, IoT | |
-| 🧠 **Interests:** Computer Vision, Neural Networks, RAG | |
+| 🔭 **Currently Building:** AI & ML projects in Data Science & Computer Vision | ![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
+| 🎯 **Mission:** Creating **intelligent, interactive & impactful** AI solutions | |
+| 🌱 **Learning:** Deep Learning, NLP, GenAI & IoT solutions | |
+| 🧠 **Interests:** Computer Vision, Neural Networks, RAG & Image Processing | |
+| 🚀 **Why I Code:** Data solves real problems – I build models that make life smarter! | |
+| ✨ **Fun Fact:** Built a complete RAG chatbot with PDF processing in 48 hours! ⏰ | |
 | 📫 **Contact:** hariprasathg2435@gmail.com | |
 | 📍 **Location:** Coimbatore, India | |
 
@@ -28,7 +30,18 @@
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,typescript,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
