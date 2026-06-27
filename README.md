@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hariprasath2432005&style=for-the-badge&color=ff69b4" />
 </p>
 
-⚡ **"Turning data into insights, building AI that makes a difference!"** ⚡
+<p align="center">⚡ <b>"Every dataset tells a story — I bring it to life!"</b> ⚡</p>
 
 ---
 
