@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Hari prasath! ✨</h1>
+<h1 align="center">✨ Hi there, I'm Hariprasath! ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Data+Science+Enthusiast;📊+ML+Engineer+in+the+Making;🧠+Computer+Vision+Explorer;👁️+Image+Processing+Expert;💬+NLP+%26+GenAI+Builder!" />
@@ -11,8 +11,6 @@
 <p align="center">⚡ <b>"Every dataset tells a story — I bring it to life!"</b> ⚡</p>
 
 ---
-
-
 
 ## 🌟 About Me
 
@@ -37,6 +35,9 @@
 </td>
 </tr>
 </table>
+
+---
+
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -84,10 +86,13 @@
 | **📊 datascienceproj** | Exploratory data analysis and visualization | Python • Pandas • Matplotlib • Jupyter |
 | **🔮 predict-insurance-flow** | ML model to predict insurance cost and flow | TypeScript • Machine Learning |
 | **👁️ Imageprocess** | Multi-class image classification using Computer Vision | Python • OpenCV • Deep Learning |
-| **🧠 ANN** | Artificial Neural Network for classification tasks | Python • TensorFlow • Jupyter |
+| **🧠 ANN** | Diamond price prediction using Artificial Neural Networks | Python • TensorFlow • Jupyter |
 | **💬 NLP** | Natural Language Processing models and text analysis | Python • NLP • Jupyter |
-| **🖥️ COMPUTER-VISION** | Advanced CV algorithms and deep learning models | Python • OpenCV • CNN |
+| **🖥️ COMPUTER-VISION** | Object detection & video processing using deep learning | Python • OpenCV • CNN |
 | **🚗 car-predict-dashboard** | Car price prediction dashboard with ML integration | React • Vite • TypeScript |
+| **📊 POWER_BI** | Interactive Sales Analytics Dashboard with regional & payment insights | Power BI • DAX • Data Visualization |
+
+---
 
 ## 💬 Developer Quote of the Day
 
